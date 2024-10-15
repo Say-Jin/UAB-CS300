@@ -1,0 +1,11 @@
+§ How inheritance was utilized in your design.
+    I made the parent class Event and then I created the classes Concert and Conference, that would inherit from the parent class Event.
+
+§ Why use of a vector of pointers.
+    I used a vector to store data without having to take up too much memory.
+
+§ Why using design patterns is beneficial.
+    It helps keep things orginized and clean. Thus making the program more digestible.
+
+§ Any challenges encountered during development.
+    Implementing the isUpcoming method and making sure the formatting was correct.
